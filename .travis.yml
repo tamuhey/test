@@ -1,4 +1,5 @@
 dist: xenial
+language: go
 script:
   - mkdir releases
   - touch releases/test
